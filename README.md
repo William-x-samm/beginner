@@ -6,3 +6,30 @@
 
 
 #
+### Hello World
+* Name : Ahmad sugi
+* From : Indonesian
+* Live in : Pemalang selatan
+* Gender : Male
+* Age : 19
+
+#
+###The type of coding I use
+```bash
+> Html-5
+> Css-3
+> JavaScript
+```
+
+#
+### Program language I learned
+```bash
+> Bash
+> Python
+> Node.js
+> Java
+```
+<P>
+Among the coding above I only focus on HTML, JAVASCRIPT and JAVA
+</P>
+#
